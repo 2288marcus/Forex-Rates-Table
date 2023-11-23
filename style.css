@@ -43,5 +43,9 @@ tr:hover {
 }
 
 .hkd {
-  border: 3px solid red;
+  border: 3px solid red !important;
+}
+
+.even {
+  border: 1px solid red;
 }

@@ -17,7 +17,7 @@ This project is a website that displays a table of foreign currency rates obtain
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/forex-rates-table.git`
+1. Clone the repository: `git clone https://github.com/2288marcus/Forex-Rates-Table.git`
 2. Navigate to the project directory: `cd forex-rates-table`
 3. Open the index.html file in a web browser.
 
